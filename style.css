@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+}
+
+header{
+    background-color: red;
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    background-color: blue;
+}
+
+nav a{
+    text-decoration: none;
+    border-radius: 10px;
+    border: 5px solid black;
+    padding: 5px;
+    color: orangered;
+    background-color: royalblue;
+}
+
+nav{
+    text-align: center;
+}

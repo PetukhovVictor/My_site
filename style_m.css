@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+
+footer{
+    background-color: blue;
+    padding: 10px;
+}
+
+header{
+    background-color: darkorange;
+    padding: 10px;
+}
+
+.cat {
+    position: absolute;
+    top: 400px;
+    left: 450px;
+}
+
+.cat:hover {
+    left: 5px;
+}

@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: black;
+    padding: 8px;
+}
+
+footer{
+    background-color: brown;
+    padding: 8px;
+}
